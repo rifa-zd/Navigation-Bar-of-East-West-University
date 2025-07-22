@@ -9,4 +9,5 @@ The assignment required replicating the **navigation bar** of the official East 
 - Replicates the look and feel of the original EWU website navbar
 - Pure HTML & CSS were used to build the structure
 
-- Link for
+- Link for live demo : https://rifa-zd.github.io/Navigation-Bar-of-East-West-University/
+  
